@@ -157,7 +157,7 @@ public class actualizar extends javax.swing.JFrame {
 
         jLabel12.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(0, 102, 255));
-        jLabel12.setText("Actuializar TFC");
+        jLabel12.setText("Actualizar TFC");
         jLabel12.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel12MouseClicked(evt);
