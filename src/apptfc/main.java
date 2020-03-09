@@ -54,7 +54,7 @@ public class main extends javax.swing.JFrame {
         setBackground(new java.awt.Color(51, 102, 255));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel1.setText("Bienvenidos a AsisTFC");
+        jLabel1.setText("Bienvenidos a ExcelsisNoteTFC");
 
         jLabel2.setText("Desarrollo de trabajos de fin de carrera");
 
